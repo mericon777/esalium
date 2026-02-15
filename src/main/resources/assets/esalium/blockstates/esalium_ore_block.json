@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "esalium:block/esalium_ore_block"
+    }
+  }
+}

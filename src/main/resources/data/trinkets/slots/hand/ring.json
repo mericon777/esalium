@@ -1,0 +1,6 @@
+{
+  "icon": "trinkets:gui/slots/ring",
+  "quick_move_predicates": [
+    "trinkets:ring"
+  ]
+}

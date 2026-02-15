@@ -1,0 +1,22 @@
+{
+  "name": "esalium:witch_village/streets",
+  "fallback": "esalium:witch_village/houses",
+  "elements": [
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/straight_01", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/straight_02", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/straight_03", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/straight_04", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/straight_05", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/straight_06", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/crossroad_01", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/crossroad_02", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/crossroad_03", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/crossroad_04", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/crossroad_05", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/crossroad_06", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/corner_01", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/corner_02", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/corner_03", "projection": "terrain_matching", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/streets/turn_01", "projection": "terrain_matching", "processors": "minecraft:empty" } }
+  ]
+}

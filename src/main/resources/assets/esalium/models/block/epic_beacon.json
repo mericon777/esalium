@@ -1,0 +1,51 @@
+{
+  "parent": "block/block",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "minecraft:block/glass",
+    "glass": "minecraft:block/glass",
+    "netherite": "minecraft:block/netherite_block",
+    "beacon": "esalium:block/epic_beacon"
+  },
+  "elements": [
+    {
+      "__comment": "Dış Cam Katman",
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#glass" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#glass" },
+        "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#glass" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#glass" },
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#glass" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#glass" }
+      }
+    },
+    {
+      "__comment": "Netherite Taban",
+      "from": [ 2, 0.01, 2 ],
+      "to": [ 14, 3, 14 ],
+      "faces": {
+        "down":  { "uv": [ 2, 2, 14, 14 ], "texture": "#netherite" },
+        "up":    { "uv": [ 2, 2, 14, 14 ], "texture": "#netherite" },
+        "north": { "uv": [ 2, 13, 14, 16 ], "texture": "#netherite" },
+        "south": { "uv": [ 2, 13, 14, 16 ], "texture": "#netherite" },
+        "west":  { "uv": [ 2, 13, 14, 16 ], "texture": "#netherite" },
+        "east":  { "uv": [ 2, 13, 14, 16 ], "texture": "#netherite" }
+      }
+    },
+    {
+      "__comment": "İç Kristal (Esalium Beacon)",
+      "from": [ 4, 3, 4 ],
+      "to": [ 12, 14, 12 ],
+      "faces": {
+        "down":  { "uv": [ 4, 4, 12, 12 ], "texture": "#beacon" },
+        "up":    { "uv": [ 4, 4, 12, 12 ], "texture": "#beacon" },
+        "north": { "uv": [ 4, 2, 12, 13 ], "texture": "#beacon" },
+        "south": { "uv": [ 4, 2, 12, 13 ], "texture": "#beacon" },
+        "west":  { "uv": [ 4, 2, 12, 13 ], "texture": "#beacon" },
+        "east":  { "uv": [ 4, 2, 12, 13 ], "texture": "#beacon" }
+      }
+    }
+  ]
+}

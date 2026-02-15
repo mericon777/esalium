@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "esalium:esalium_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "esalium:esalium_sword"
+  },
+  "template": {
+    "item": "esalium:esalium_upgrade_smithing_template"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "itemgroup.esalium.esalium_blocks": "Эсалиум",
+
+  "item.esalium.esalium_ore": "\u00A7cРуда Эсалиума",
+  "item.esalium.esalium_ingot": "\u00A7cСлиток Эсалиума",
+  "item.esalium.esalium_axe": "\u00A7cТопор из Эсалиума",
+  "item.esalium.esalium_hoe": "\u00A7cМотыга из Эсалиума",
+  "item.esalium.esalium_pickaxe": "\u00A7cКирка из Эсалиума",
+  "item.esalium.esalium_shovel": "\u00A7cЛопата из Эсалиума",
+  "item.esalium.esalium_sword": "\u00A7cМеч из Эсалиума",
+  "item.esalium.esalium_upgrade_smithing_template": "\u00A7cШаблон Эсалиума",
+  "item.esalium.esalium_helmet": "\u00A7cШлем из Эсалиума",
+  "item.esalium.esalium_chestplate": "\u00A7cНагрудник из Эсалиума",
+  "item.esalium.esalium_leggings": "\u00A7cПоножи из Эсалиума",
+  "item.esalium.esalium_boots": "\u00A7cБотинки из Эсалиума",
+  "item.esalium.emperror_pu_spawn_egg": "Яйцо призыва Императора Пу",
+  "item.esalium.melodi_heart": "\u00A75Сердце Мелоди",
+  "item.esalium.emperrors_tears": "\u00A7bСлезы Императора",
+
+  "block.esalium.esalium_block": "Блок Эсалиума",
+  "block.esalium.raw_esalium_block": "Блок сырого Эсалиума",
+  "block.esalium.esalium_ore_block": "Руда Эсалиума",
+  "block.esalium.esalium_ore_deepslate_block": "Глубинная руда Эсалиума",
+  "block.esalium.epic_beacon": "\u00A76Эпический маяк",
+  "block.esalium.efes_table": "Стол Эфе",
+
+  "entity.esalium.emperror_pu": "Император Пу",
+  "entity.esalium.laura": "Лаура",
+  "entity.esalium.mert": "Мерт",
+  "entity.esalium.efe_villager": "Эфе",
+  "entity.esalium.efe": "Эфе",
+  "entity.esalium.melodi": "Мелоди",
+
+  "item.esalium.castle_map": "Карта к замку Императора",
+  "item.esalium.efe_map": "Карта к дому Эфе",
+  "item.esalium.efe_story": "Дневник Эфе",
+
+  "boss.esalium.phase_aerial": "ИМПЕРАТОР ПУ: ДОЖДЬ СТРАДАНИЙ!",
+  "boss.esalium.phase_ground": "ИМПЕРАТОР ПУ: ТЕПЕРЬ ТЫ УМРЕШЬ!",
+  "boss.esalium.phase_guards": "УБЕЙТЕ СТРАЖЕЙ!",
+  "boss.esalium.phase_final": "ИМПЕРАТОР ПУ: МАРШ СМЕРТИ!",
+
+  "book.esalium.efe_story.p1": "Отважному путнику, читающему это... Спасибо. Если эта книга у тебя в руках, значит, ты решил столкнуться с опасностями, которые мне не по плечу. Меня зовут Эфе, я был простым оружейником в этих землях.",
+  "book.esalium.efe_story.p2": "Я жил мирной жизнью со своей возлюбленной, Мелоди. Она была светом моей кузницы. Но Император Пу... тиран, развращенный пустотой... жаждал не только власти. Он хотел забрать ее свет.",
+  "book.esalium.efe_story.p3": "Он похитил Мелоди в свою парящую крепость. Я пытался остановить его, но был слишком слаб. Пожалуйста, возьми эту карту. Победи его и верни её мне.",
+
+  "item.esalium.melodi_heart.tooltip.story": "Сердце потерянной возлюбленной...",
+  "item.esalium.melodi_heart.tooltip.instruction.1": "Найди Эфе в деревне.",
+  "item.esalium.melodi_heart.tooltip.instruction.2": "Нажми ПКМ по блоку над Эфе.",
+  "item.esalium.melodi_heart.tooltip.instruction.3": "Стань свидетелем воссоединения.",
+
+  "item.esalium.emperrors_tears.tooltip.story": "Последний фрагмент павшего тирана.",
+  "item.esalium.emperrors_tears.tooltip.instruction.1": "Соедини с блоками Эсалиума,",
+  "item.esalium.emperrors_tears.tooltip.instruction.2": "чтобы создать Эпический маяк.",
+
+  "tooltip.esalium.shift_required": "Удерживайте [SHIFT] для информации",
+
+  "entity.esalium.laura.line1": "Пожалуйста, помоги мне, путник!",
+  "entity.esalium.laura.line2": "Император Пу пал во тьму...",
+  "entity.esalium.laura.line3": "Я могу установить твою точку возрождения здесь.",
+  "entity.esalium.laura.line4": "Ты хочешь этого?",
+
+  "gui.esalium.set_spawn": ">> ТОЧКА ВОЗРОЖДЕНИЯ <<",
+  "gui.esalium.exit": "[ ЗАКОНЧИТЬ РАЗГОВОР ]",
+  "message.esalium.spawn_set": "Точка возрождения установлена!",
+
+  "gui.esalium.mert.header": "--- Мерт ---",
+  "gui.esalium.give_map": "[ Взять карту ]",
+  "gui.esalium.thanks_mert": "[ Спасибо, Мерт ]",
+
+  "entity.esalium.mert.start.line1": "Эй ты! Наконец-то я нашел тебя!",
+  "entity.esalium.mert.start.line2": "Я искал тебя несколько дней.",
+  "entity.esalium.mert.start.line3": "Моему другу Эфе очень нужна твоя помощь!",
+  "entity.esalium.mert.start.line4": "Пожалуйста, возьми эту карту и иди к нему.",
+
+  "entity.esalium.mert.end.line1": "Невероятно! Ты сделал это!",
+  "entity.esalium.mert.end.line2": "Император Пу исчез... Мелоди обрела покой.",
+  "entity.esalium.mert.end.line3": "Это упавшее сердце... Это сердце Мелоди.",
+  "entity.esalium.mert.end.line4": "Тебе нужно использовать его в правильном месте.",
+
+  "message.esalium.reunion_success": "Мелоди и Эфе воссоединились! Теперь ты можешь торговать с Мелоди!",
+  "message.esalium.efe_not_found": "Эфе нет поблизости! Приведи Мелоди к Эфе.",
+  "message.esalium.efe_house_not_found": "Дом Эфе слишком далеко или не найден!",
+  "message.esalium.mert_re_mark_map": "Мерт: Я снова отметил карту. Удачи!",
+  "waypoint.esalium.castle": "Замок Императора",
+  "waypoint.esalium.efe_house": "Дом Эфе",
+  "message.esalium.map_received": "Карта получена! Место отмечено.",
+  "message.esalium.structure_not_found": "Структура не найдена поблизости!",
+  "message.esalium.boss_blocked": "Император Пу ЗАБЛОКИРОВАЛ твою атаку!",
+  "message.esalium.need_special_equipment": "Твое оружие бесполезно! Тебе нужно снаряжение из Эсалиума!",
+  "message.esalium.boss_warning": "⚠ УКЛОНЯЙСЯ ОТ ПАДАЮЩИХ ЖИТЕЛЕЙ! ⚠",
+  "message.esalium.mert_spawn": "Кто-то зовет тебя...",
+  "message.esalium.mert_leave": "Мерт убежал...",
+  "message.esalium.mert_return": "Знакомое лицо бежит к тебе...",
+  "message.esalium.reward_received": "Награда получена!",
+
+  "advancement.esalium.root": "Эсалиум",
+  "advancement.esalium.root.desc": "Добро пожаловать в мир Эсалиума.",
+  "advancement.esalium.kill_emperror": "Падение Императора",
+  "advancement.esalium.kill_emperror.desc": "Победите Императора Пу и снимите проклятие!",
+  "advancement.esalium.reunion.title": "Воссоединение",
+  "advancement.esalium.reunion.desc": "Вы воссоединили Мелоди и Эфе!"
+}

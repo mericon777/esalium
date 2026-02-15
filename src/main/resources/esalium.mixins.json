@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.epeshi.esalium.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"EpicBeaconMixin",
+		"PlayerEntityMixin"
+
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

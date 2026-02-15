@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "esalium:block/efes_table_side",
+    "down": "esalium:block/efes_table_bottom",
+    "up": "esalium:block/efes_table_top",
+    "north": "esalium:block/efes_table_front",
+    "east": "esalium:block/efes_table_side",
+    "south": "esalium:block/efes_table_side",
+    "west": "esalium:block/efes_table_front"
+  }
+}

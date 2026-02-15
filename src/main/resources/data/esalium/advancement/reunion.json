@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "esalium:melodi_heart"
+    },
+    "title": {
+      "translate": "advancement.esalium.reunion.title",
+      "fallback": "Kavuşma"
+    },
+    "description": {
+      "translate": "advancement.esalium.reunion.desc",
+      "fallback": "Efe ve Melodi'nin kavuşmasına şahit ol."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "esalium:root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

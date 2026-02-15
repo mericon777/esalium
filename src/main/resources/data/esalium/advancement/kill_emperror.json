@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "esalium:emperrors_tears"
+    },
+    "title": {
+      "translate": "advancement.esalium.kill_emperror",
+      "fallback": "İmparatorun Düşüşü"
+    },
+    "description": {
+      "translate": "advancement.esalium.kill_emperror.desc",
+      "fallback": "Yüce İmparator Pu'yu yen ve hükümdarlığına son ver."
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "esalium:root",
+  "criteria": {
+    "kill_emperror_pu": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "esalium:emperror_pu"
+        }
+      }
+    }
+  }
+}

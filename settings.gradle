@@ -1,0 +1,15 @@
+pluginManagement {
+	repositories {
+		maven {
+			name = 'Fabric'
+			url = 'https://maven.fabricmc.net/'
+		}
+		mavenCentral()
+		gradlePluginPortal()
+	}
+}
+
+// dependencyResolutionManagement bloğunu tamamen sildik.
+// Artık depoları build.gradle yönetecek.
+
+rootProject.name = 'esalium'

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "esalium:esalium_block",
+
+    "esalium:raw_esalium_block",
+
+    "esalium:esalium_ore_block",
+
+    "esalium:esalium_ore_deepslate_block"
+  ]
+}

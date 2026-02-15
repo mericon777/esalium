@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "esalium:block/raw_esalium_block"
+    }
+  }
+}

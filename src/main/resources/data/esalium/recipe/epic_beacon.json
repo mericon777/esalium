@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "G#G",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "esalium:esalium_block"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "#": {
+      "item": "esalium:emperrors_tears"
+    }
+  },
+  "result": {
+    "id": "esalium:epic_beacon",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.3,
+  "group": "esalium_ingot",
+  "ingredient": {
+    "item": "esalium:raw_esalium_block"
+  },
+  "result": {
+    "id": "esalium:esalium_ingot"
+  }
+}

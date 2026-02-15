@@ -1,0 +1,26 @@
+{
+  "name": "esalium:witch_village/houses",
+  "fallback": "minecraft:empty",
+  "elements": [
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_small_house_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_small_house_2", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_small_house_3", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 5, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_small_house_4", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 4, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_medium_house_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 4, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_medium_house_2", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 2, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_big_house_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_butcher_shop_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_library_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_temple_3", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_temple_4", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 2, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_armorer_house_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 2, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_fletcher_house_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 2, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_weaponsmith_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 2, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_tool_smith_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 4, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_animal_pen_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 4, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_animal_pen_2", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_large_farm_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 3, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_stable_1", "projection": "rigid", "processors": "minecraft:empty" } },
+    { "weight": 1, "element": { "element_type": "minecraft:single_pool_element", "location": "esalium:witch_village/houses/plains_accessory_1", "projection": "rigid", "processors": "minecraft:empty" } }
+  ]
+}

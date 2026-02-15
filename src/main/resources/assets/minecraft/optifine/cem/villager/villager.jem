@@ -1,0 +1,18 @@
+{
+  "models": [
+    {
+      "part": "nose",
+      "id": "nose",
+      "invertAxis": "xy",
+      "translate": [0, 0, 0],
+      "animations": [
+        {
+          "this.visible": "if(villager.profession == 'esalium:efe', false, true)",
+          "this.sx": "if(villager.profession == 'esalium:efe', 0, 1)",
+          "this.sy": "if(villager.profession == 'esalium:efe', 0, 1)",
+          "this.sz": "if(villager.profession == 'esalium:efe', 0, 1)"
+        }
+      ]
+    }
+  ]
+}

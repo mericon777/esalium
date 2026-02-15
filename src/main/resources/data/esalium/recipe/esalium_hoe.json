@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "addition": {
+    "item": "esalium:esalium_ingot"
+  },
+  "template": {
+    "item": "esalium:esalium_upgrade_smithing_template"
+  },
+  "result": {
+    "id": "esalium:esalium_hoe",
+    "count": 1
+  }
+}

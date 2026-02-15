@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "esalium:emperror_pu_castle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 85,
+    "separation": 35,
+    "salt": 87654321
+  }
+}

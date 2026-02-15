@@ -1,0 +1,12 @@
+{
+  "boss_music": {
+    "category": "music",
+    "subtitle": "subtitles.esalium.boss_music",
+    "sounds": [
+      {
+        "name": "esalium:boss_music",
+        "stream": true
+      }
+    ]
+  }
+}
